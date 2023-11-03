@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hi, I am Carlos, an open-source developer and user. <br>
-    I'm currently working at <a href="https://adj-pro.com" >@adjpro</a>.
+    I'm currently studying the French language 🇫🇷
   </samp>
 </p>
 
