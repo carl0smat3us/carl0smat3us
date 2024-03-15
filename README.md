@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    I'm Carlos, an open source developer and user. <3
+    I'm an open source developer and user
   </samp>
 </p>
 
