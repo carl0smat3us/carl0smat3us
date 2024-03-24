@@ -1,8 +1,10 @@
 # Carlos Mateus
 
-**`Fullstack Developer`**
+**`Software Developer`**
 
-I'm a fullstack developer with over 4 years of experience. I have solid skills in various technologies, both on the frontend and backend. I also dabble a bit in mobile development. I'm always seeking challenges that allow me to grow professionally and contribute to the success of the projects I'm involved in.
+Hey there! I'm Carlos Mateus, a Software Developer with more than 4 years of hands-on experience. I've got a knack for diving into various technologies, whether it's crafting sleek frontend interfaces or tinkering with the backend. I've even dipped my toes into mobile development waters.
+
+What drives me? Well, it's the thrill of tackling new challenges that push me to grow professionally. I'm all about contributing my best to ensure the success of the projects I'm part of. Let's build something awesome together!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
